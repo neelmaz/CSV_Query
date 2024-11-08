@@ -6,7 +6,7 @@ Created on Fri Nov  8 20:52:50 2024
 @author: neelanjanmazumder
 """
 
-!pip install streamlit
+#!pip install streamlit
 !pip install google-generativeai
 !pip install getpass
 
