@@ -7,8 +7,8 @@ Created on Fri Nov  8 20:52:50 2024
 """
 
 #!pip install streamlit
-!pip install google-generativeai
-!pip install getpass
+#!pip install google-generativeai
+#!pip install getpass
 
 import getpass
 import os
